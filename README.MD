@@ -1,4 +1,4 @@
-### Olá! I am Álvaro Assunção👋
+### Hello, I'm Álvaro Assunção👋
 
 
 - 🔭 today I work as a full analyst ...
