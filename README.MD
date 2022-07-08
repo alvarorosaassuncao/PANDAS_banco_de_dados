@@ -4,7 +4,7 @@
 - 🔭 today I work as a full analyst ...
 - 🌱 I'm studying HTML, CSS e Javascript  ...
 ##
-![alvarorosaassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarorosaassuncao&show_icons=true&theme=radical)
+![alvarorosaassuncao GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarorosaassuncao&show_icons=true&theme=with)
 
 ##
 
