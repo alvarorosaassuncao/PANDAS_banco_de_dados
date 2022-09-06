@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alvaro!
+# Olá! Eu sou o Alvaro!
 
 
 - 🔭 Apaixonado por tecnologia
